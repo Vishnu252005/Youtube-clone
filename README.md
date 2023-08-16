@@ -9,7 +9,8 @@ YouTube UI Clones using TailwindCSS ⚡
 [![web](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)](https://youtubewebui.netlify.app)
 
 ## Sneak Peek of Site 🙈 :
-![yuotube front](https://github.com/Vishnu252005/Resumgenx/assets/141705372/c418b3e0-0ac0-40d2-849a-ae91bfa289b0)
+![Web capture_16-8-2023_191226_vishnu252005 github io](https://github.com/Vishnu252005/Youtube-clone/assets/141705372/8af6bbfb-86b5-4a04-9ba4-be043c1a5d7e)
+
 
 
 
